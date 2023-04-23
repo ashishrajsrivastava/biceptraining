@@ -1,5 +1,6 @@
 param myStorageName string
 param location string
+param myBool bool = true
 
 var storageSKU = 'Standard_LRS'
 
