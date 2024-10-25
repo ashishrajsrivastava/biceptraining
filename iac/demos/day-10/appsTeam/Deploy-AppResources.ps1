@@ -1,0 +1,1 @@
+$appResourcesDeployment = New-AzSubscriptionDeployment -Location 'West Europe' -TemplateFile ./appsTeam/app.bicep
